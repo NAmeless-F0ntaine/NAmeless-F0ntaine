@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NAmeless-F0ntaine
+- 👋 Hi, I’m NAmeless-F0ntaine
 - 👀 I’m interested in becoming a Software Developer 
 - 🌱 I’m currently learning how it all works from the basics such as the different programs.
 - 💞️ I’m looking to collaborate on some fun projects and get creative.
